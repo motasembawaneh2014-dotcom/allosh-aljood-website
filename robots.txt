@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://motasembawaneh2014-dotcom.github.io/allosh-aljood-website/sitemap.xml
